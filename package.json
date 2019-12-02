@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "scripts": {
+    "dev": "parcel -p 8080 watch index.html"
+  },
+  "name": "textanimation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
